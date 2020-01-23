@@ -1,31 +1,180 @@
 {
   "chat": [
-    {
-      "id": 1,
-      "message": "Good Morning bro",
-      "user": {
+    [
+      {
         "id": 1,
-        "name": "imran",
-        "image": "https://randomuser.me/api/portraits/men/64.jpg"
+        "message": "Good Morning bro",
+        "group_id": 1,
+        "user": {
+          "id": 2,
+          "name": "Ibrahim",
+          "image": "https://randomuser.me/api/portraits/men/65.jpg"
+        }
       }
-    },
-    {
-      "id": 1,
-      "message": "How are you? Are you free today?",
-      "user": {
+    ],
+    [
+      {
         "id": 1,
-        "name": "imran",
-        "image": "https://randomuser.me/api/portraits/men/64.jpg"
+        "message": "Morning bro, what's up?",
+        "group_id": 2,
+        "user": {
+          "id": 1,
+          "name": "imran",
+          "image": "https://randomuser.me/api/portraits/men/64.jpg"
+        }
       }
-    },
-    {
-      "id": 1,
-      "message": "I would like to arrange for a meeting in the evening",
-      "user": {
+    ],
+    [
+      {
         "id": 1,
-        "name": "imran",
-        "image": "https://randomuser.me/api/portraits/men/64.jpg"
+        "message": "Nothing much..",
+        "group_id": 3,
+        "user": {
+          "id": 1,
+          "name": "imran",
+          "image": "https://randomuser.me/api/portraits/men/64.jpg"
+        }
+      },
+      {
+        "id": 1,
+        "message": "How's everything going with you?",
+        "group_id": 3,
+        "user": {
+          "id": 1,
+          "name": "imran",
+          "image": "https://randomuser.me/api/portraits/men/64.jpg"
+        }
       }
-    }
+    ],
+    [
+      {
+        "id": 1,
+        "message": "All fine...",
+        "group_id": 4,
+        "user": {
+          "id": 2,
+          "name": "Ibrahim",
+          "image": "https://randomuser.me/api/portraits/men/65.jpg"
+        }
+      },
+      {
+        "id": 1,
+        "message": "Are you free today?",
+        "group_id": 4,
+        "user": {
+          "id": 2,
+          "name": "Ibrahim",
+          "image": "https://randomuser.me/api/portraits/men/65.jpg"
+        }
+      },
+      {
+        "id": 1,
+        "message": "I want to arrange a meeting with you",
+        "group_id": 4,
+        "user": {
+          "id": 2,
+          "name": "Ibrahim",
+          "image": "https://randomuser.me/api/portraits/men/65.jpg"
+        }
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "message": "Yeah, sure. I'm available",
+        "group_id": 5,
+        "user": {
+          "id": 1,
+          "name": "imran",
+          "image": "https://randomuser.me/api/portraits/men/64.jpg"
+        }
+      },
+      {
+        "id": 1,
+        "message": "What time?",
+        "group_id": 5,
+        "user": {
+          "id": 1,
+          "name": "imran",
+          "image": "https://randomuser.me/api/portraits/men/64.jpg"
+        }
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "message": "Anytime you are free",
+        "group_id": 6,
+        "user": {
+          "id": 2,
+          "name": "Ibrahim",
+          "image": "https://randomuser.me/api/portraits/men/65.jpg"
+        }
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "message": "Okay...",
+        "group_id": 7,
+        "user": {
+          "id": 1,
+          "name": "imran",
+          "image": "https://randomuser.me/api/portraits/men/64.jpg"
+        }
+      },
+      {
+        "id": 1,
+        "message": "Let me think",
+        "group_id": 7,
+        "user": {
+          "id": 1,
+          "name": "imran",
+          "image": "https://randomuser.me/api/portraits/men/64.jpg"
+        }
+      },
+      {
+        "id": 1,
+        "message": "4.00 PM Today?",
+        "group_id": 7,
+        "user": {
+          "id": 1,
+          "name": "imran",
+          "image": "https://randomuser.me/api/portraits/men/64.jpg"
+        }
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "message": "Cool. Done.",
+        "group_id": 8,
+        "user": {
+          "id": 2,
+          "name": "Ibrahim",
+          "image": "https://randomuser.me/api/portraits/men/65.jpg"
+        }
+      },
+      {
+        "id": 1,
+        "message": "Will see you at Starbucks then",
+        "group_id": 8,
+        "user": {
+          "id": 2,
+          "name": "Ibrahim",
+          "image": "https://randomuser.me/api/portraits/men/65.jpg"
+        }
+      },
+      {
+        "id": 1,
+        "message": "Have a good day",
+        "group_id": 8,
+        "user": {
+          "id": 2,
+          "name": "Ibrahim",
+          "image": "https://randomuser.me/api/portraits/men/65.jpg"
+        }
+      }
+    ]
   ]
 }
