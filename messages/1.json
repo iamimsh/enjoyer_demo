@@ -1,0 +1,31 @@
+{
+  "chat": [
+    {
+      "id": 1,
+      "message": "Good Morning bro",
+      "user": {
+        "id": 1,
+        "name": "imran",
+        "image": ""
+      }
+    },
+    {
+      "id": 1,
+      "message": "How are you? Are you free today?",
+      "user": {
+        "id": 1,
+        "name": "imran",
+        "image": ""
+      }
+    },
+    {
+      "id": 1,
+      "message": "I would like to arrange for a meeting in the evening",
+      "user": {
+        "id": 1,
+        "name": "imran",
+        "image": ""
+      }
+    }
+  ]
+}
