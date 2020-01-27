@@ -107,6 +107,18 @@
       "message": "Ok.. I'll bring it.",
       "show_image": true,
       "user_id": 2
+    },
+    {
+      "id": 1,
+      "message": "Hey, I want to be in the meeting too.. is there a chance.?",
+      "show_image": false,
+      "user_id": 3
+    },
+    {
+      "id": 1,
+      "message": "Please let me know..",
+      "show_image": true,
+      "user_id": 3
     }
   ]
 }
